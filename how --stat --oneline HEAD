@@ -1,0 +1,16 @@
+[33m4c84c7a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m making the site the basic changes but i dont think i have any chnages yet
+ about.html                                         |  68 [32m++++[m
+ .../gallery-french-manicure-photo-missing.txt      |   4 [32m+[m
+ .../gallery-neutral-manicure-photo-missing.txt     |   4 [32m+[m
+ .../gallery-pedicure-ritual-photo-missing.txt      |   4 [32m+[m
+ assets/images/hero-manicure-photo-missing.txt      |   4 [32m+[m
+ assets/images/manicure-service-photo-missing.txt   |   4 [32m+[m
+ assets/images/nail-care-detail-photo-missing.txt   |   4 [32m+[m
+ .../images/nail-studio-interior-photo-missing.txt  |   4 [32m+[m
+ assets/images/pedicure-service-photo-missing.txt   |   4 [32m+[m
+ contact.html                                       |  88 [32m+++++[m
+ index.html                                         | 161 [32m++++++++[m
+ script.js                                          | 114 [32m++++++[m
+ services.html                                      |  84 [32m++++[m
+ style.css                                          | 434 [32m+++++++++++++++++++++[m
+ 14 files changed, 981 insertions(+)
