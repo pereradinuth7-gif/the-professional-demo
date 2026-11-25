@@ -1,0 +1,16 @@
+All photographs are from Pexels and are used under the Pexels license:
+https://www.pexels.com/license/
+
+Attribution is not required. The files are locally stored, resized/compressed
+JPEGs for this website demonstration.
+
+hero-nude-manicure.jpg — https://www.pexels.com/photo/35103940/
+featured-neutral-manicure.jpg — https://www.pexels.com/photo/35491156/
+featured-pedicure-treatment.jpg — https://www.pexels.com/photo/18441298/
+gallery-nail-art.jpg — https://www.pexels.com/photo/34941688/
+gallery-manicure-work.jpg — https://www.pexels.com/photo/7755218/
+gallery-pedicure-result.jpg — https://www.pexels.com/photo/17056220/
+nail-studio-interior.jpg — https://www.pexels.com/photo/6135674/
+about-nail-care-detail.jpg — https://www.pexels.com/photo/17280274/
+services-manicure-detail.jpg — https://www.pexels.com/photo/7755224/
+services-pedicure-detail.jpg — https://www.pexels.com/photo/34930123/
